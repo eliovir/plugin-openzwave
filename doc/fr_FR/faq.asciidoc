@@ -4,7 +4,7 @@ Un tutoriel a été mis en ligne par Sarakha63 : https://forum.jeedom.fr/viewtop
 '''
 
 C'est compatible razberry ?::
-Oui c'est 100% compatible avec le razberry c'est d'ailleurs toujours la solution officiel jeedom
+Oui c'est 100% compatible avec le razberry c'est d'ailleurs toujours la solution officielle jeedom.
 
 '''
 
